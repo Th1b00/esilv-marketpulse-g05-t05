@@ -148,7 +148,7 @@ git checkout -b khelil-mehiri
 
 # Afficher la liste des branches (l'étoile indique la branche actuelle)
 git branch
-# Résultat :
+# Résultats :
 EOF
 git branch | sed 's/^/# /' >> evidence/khelil-mehiri/td-03-km_linux_basics.sh
 
