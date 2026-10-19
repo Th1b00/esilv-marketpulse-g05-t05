@@ -15,3 +15,12 @@ Interval: Daily
 Observations
 AAPL: 21
 SP500: 21
+
+####td02sandbox 
+Last close   : 266.20 USD
+
+Benchmark
+SP500 - S&P 500
+Observations : 21
+First close  : 6600.00
+Last close   : 6742.00
