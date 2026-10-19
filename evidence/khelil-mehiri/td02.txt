@@ -1,3 +1,4 @@
+python src/main.py
 === MarketPulse ===
 
 Instrument
