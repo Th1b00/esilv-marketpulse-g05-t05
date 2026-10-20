@@ -1,0 +1,33 @@
+$ python thibault-michel/td-04-sandbox.py
+
+Type of loaded JSON: <class 'dict'>
+Top-level keys     : ['instrument', 'benchmark']
+Total records loaded : 42
+Type of prices       : <class 'list'>
+Type of each row     : <class 'dict'>
+
+First observation sample:
+  date     -> 2026-09-01 (type: str)
+  ticker   -> AAPL (type: str)
+  open     -> 249.20 (type: str)
+  high     -> 251.50 (type: str)
+  low      -> 248.00 (type: str)
+  close    -> 250.00 (type: str)
+  volume   -> 38000000 (type: str)
+=== MarketPulse ===
+
+Market configuration
+Period   : 1 month
+Interval : Daily
+
+Instrument
+AAPL - Apple Inc.
+Observations : 21
+First close  : 250.00 USD
+Last close   : 266.20 USD
+
+Benchmark
+SP500 - S&P 500
+Observations : 21
+First close  : 6600.00
+Last close   : 6742.00
